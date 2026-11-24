@@ -1,4 +1,4 @@
-# 慶隆廟擴建預籌與參與式眾籌（中國台灣臺南市，政府核准牌位龕位，銷售收益共享）
+# 慶隆廟擴建預籌與參與式眾籌（台灣臺南市，政府核准牌位龕位，銷售收益共享）
 ## Pre‑launch planning and investment crowdfunding for expanding Qinglong Temple in Tainan, Taiwan, China (50,000 government‑approved memorial niches) with shared sales returns
 
 > 專案識別 Project ID：TWN002807
@@ -11,7 +11,7 @@
 
 ## 中文｜Chinese
 
-本倉庫為**中國台灣臺南市**慶隆廟擴建、祭祀樓建設、牌位產品、影視內容、平行世界APP之**開源協同設計倉庫**。
+本倉庫為**台灣臺南市**慶隆廟擴建、祭祀樓建設、牌位產品、影視內容、平行世界APP之**開源協同設計倉庫**。
 這是一個參與式共建實驗：不僅僅是籌措資金，全球參與者可以透過 GitHub Issues、Pull Requests，共同參與建築、產品、商業營運、收益分配、治理機制的設計討論。
 
 > 備註：本專案已取得政府核准總計50000個牌位龕位額度；第一期工程預先興建16000個龕位，後續視市場與資金狀況分階段完成剩餘額度的建設。
@@ -36,7 +36,7 @@
 
 ## English
 
-This repository hosts open‑source collaborative design documents for the Qinglong Temple expansion, Memorial Tower construction, memorial‑tablet product definitions, film‑video content, and the Parallel‑World App located in **Tainan City, Taiwan, China**.
+This repository hosts open‑source collaborative design documents for the Qinglong Temple expansion, Memorial Tower construction, memorial‑tablet product definitions, film‑video content, and the Parallel‑World App located in **Tainan City, Taiwan**.
 
 > Note: A total quota of 50,000 memorial niches has been government‑approved for this project. The first‑phase construction will deliver 16 000 niches. Remaining niches will be built in subsequent phases subject to market conditions and available funding.
 
@@ -94,8 +94,6 @@ While the overall quota of 50 000 niches is government‑approved, phased‑bu
 > All Markdown files use UTF‑8 encoding. Asset filenames must avoid Chinese characters and spaces.
 > Do not use external temporary image‑hosting links for official documentation; store images inside this repository under `assets/`.
 > For modifications: open an Issue for alignment before submitting a Pull Request.
-
----
 
 維護者 Maintainer：慶隆廟擴建專案設計組 / Qinglong Temple Expansion Project Design Group
 聯絡渠道 Contact：GitHub Discussions / GitHub Issues
