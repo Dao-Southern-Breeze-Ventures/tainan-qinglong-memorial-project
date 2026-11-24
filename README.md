@@ -5,7 +5,7 @@
 > 文件版本 Document Version：v0.3
 > 專案狀態 Project Status：設計徵集 Design‑solicitation Phase
 
-![慶隆廟全景圖](./assets/temple-photos/full_view.jps)
+![慶隆廟全景圖](./assets/temple-photos/full_view.jpg)
 
 ---
 
