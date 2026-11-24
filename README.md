@@ -14,7 +14,7 @@
 本倉庫為**台灣臺南市**慶隆廟擴建、祭祀樓建設、牌位產品、影視內容、平行世界APP之**開源協同設計倉庫**。
 這是一個參與式共建實驗：不僅僅是籌措資金，全球參與者可以透過 GitHub Issues、Pull Requests，共同參與建築、產品、商業營運、收益分配、治理機制的設計討論。
 
-> 備註：本專案已取得政府核准總計50000個牌位龕位額度；第一期工程預先興建16000個龕位，後續視市場與資金狀況分階段完成剩餘額度的建設。
+> 備註：政府核准總計50000個牌位龕位額度。
 
 本專案計畫擴建慶隆廟主殿，新建一座祭祀樓，第一期規劃容納16000個牌位（含人用牌位與寵物牌位）；同時開發歷史主題影視作品，以及「平行世界APP」數位紀念應用，結合實體祭祀服務與數位追思。
 
@@ -38,7 +38,7 @@
 
 This repository hosts open‑source collaborative design documents for the Qinglong Temple expansion, Memorial Tower construction, memorial‑tablet product definitions, film‑video content, and the Parallel‑World App located in **Tainan City, Taiwan**.
 
-> Note: A total quota of 50,000 memorial niches has been government‑approved for this project. The first‑phase construction will deliver 16 000 niches. Remaining niches will be built in subsequent phases subject to market conditions and available funding.
+> Note: A total quota of 50,000 memorial niches has been government‑approved. 
 
 This is a participatory co‑design experiment. Beyond capital‑raising, worldwide co‑design participants may take part in discussions over architecture, product specifications, business operations, revenue distribution and governance via GitHub Issues and Pull Requests.
 
