@@ -14,6 +14,8 @@
 >
 
 ---
+![慶隆廟主神與陪祀神像](./assets/temple-photos/principal_deities.jpg)
+---
 
 ## Table of Contents
 
